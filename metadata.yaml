@@ -1,0 +1,60 @@
+_repo: The-Hungry-Tiger-of-Oz_70152
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Staunton, Schuyler
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+    wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70152'
+  lccn: '26017314'
+language: en
+pgterms:marc904: https://digitalcommons.usf.edu/childrens_lit_books/6/
+pgterms:marc905: 20221116145030thompson
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and University of South Florida and the Online
+  Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Reilly & Lee Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Hungry Tiger of Oz
+url: http://www.gutenberg.org/ebooks/70152
