@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
+covers:
+- cover_type: archival
+  image_path: 70152-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Ruth Plumly
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34661
     wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70152#The-Hungry-Tiger-of-Oz
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70152'
